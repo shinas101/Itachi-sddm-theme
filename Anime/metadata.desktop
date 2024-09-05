@@ -11,3 +11,4 @@ ConfigFile=theme.conf
 TranslationsDirectory=translations
 Theme-Id=Elegant
 Theme-API=2.0
+QtVersion=6
